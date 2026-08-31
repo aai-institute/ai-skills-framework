@@ -4,8 +4,6 @@ A framework for defining, developing, and assessing AI skills for professionals 
 
 Developed by the [appliedAI Institute for Europe](https://www.appliedai-institute.de/). Full background: [AI Skills Framework](https://www.appliedai-institute.de/ressourcen/ai-skills-framework/) and the whitepaper *"Bringing AI Skills into Practice 2026."*
 
-This repository is the public derivative of the Institute's internal [skills-framework](https://github.com/aai-institute/skills-framework) backend and shares its single core asset: the list of skill components below.
-
 ## Why this framework
 
 Most existing AI competency frameworks raise awareness but stop short of professional, role-specific capability. This framework closes that gap by breaking AI competence down into discrete, demonstrable **skill components** that can be assessed and developed like any other professional skill.
